@@ -13,7 +13,7 @@ Day 16-20: Flipkart
 
 Day 21-25: Google
 
-Day 26-30:
+Day 26-30: Amazon
 
 
 AIM: Solve 3 Question / Day
